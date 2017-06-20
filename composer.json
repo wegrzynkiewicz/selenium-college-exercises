@@ -1,0 +1,17 @@
+{
+    "name": "wegrzynkiewicz/selenium-college-exercises",
+    "description": "Simple PHPUnit, Facebook/php-webdriver and Selenium application for passing college exercises",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Łukasz Węgrzynkiewicz",
+            "email": "wegrzynkiewicz.lukasz@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "5.7",
+        "facebook/webdriver": "^1.4"
+    }
+}

@@ -1,0 +1,5 @@
+/.idea
+/*.zip
+/*.jar
+/vendor
+/composer.lock
